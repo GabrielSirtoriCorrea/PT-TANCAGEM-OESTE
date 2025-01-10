@@ -1,0 +1,4 @@
+h32,ALARME - Transferência com problemas,
+h33,FIRST ALARME - Transferência com problemas,
+h34,Inter bombeamento,
+h35,Force transferência,
